@@ -1,1 +1,1 @@
-Line1， but in branch2.
+new line 1 in branch2.
